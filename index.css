@@ -1,0 +1,61 @@
+body{
+    overflow-x: hidden;
+    background-color: #f27b7b;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 100 100'%3E%3Crect x='0' y='0' width='46' height='46' fill-opacity='0.6' fill='%23ffa0a0'/%3E%3C/svg%3E");
+}
+#header{
+    width: 94rem;
+    border: white groove .3rem;
+}
+#head{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+#bot{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+#left{
+    border: white groove .3rem;
+    position:absolute;
+    width: 30rem;
+}
+#middle{
+    border: white groove .3rem;
+    position:absolute;
+    width: 31rem;
+    left: 32rem;
+}
+#right{
+    border: white groove .3rem;
+    position:absolute;
+    width: 30rem;
+    left: 64.5rem;
+}
+#footer{
+    position:absolute;
+    top: 60rem;
+    width: 94rem ;
+    border: white groove .3rem;
+}
+#foot{
+    color: white;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 2.5rem;
+}
+#igr{
+    position: absolute;
+    top: 45rem;
+    left: 72rem;
+}
+#igl{
+    position: absolute;
+    top: 45rem;
+    left: 7rem;
+}
