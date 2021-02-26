@@ -51,10 +51,12 @@ p{
 }
 #igr{
     position: absolute;
-    top: 85rem;
-    left: 92rem;
-    Width: 80rem;
-    Height: 800rem;
+    top: 45rem;
+    left: 72rem;
+    width: 13rem;
+    height: 16rem;
+    top: 42rem;
+    border: pink .3rem groove;
 }
 #igl{
     position: absolute;
